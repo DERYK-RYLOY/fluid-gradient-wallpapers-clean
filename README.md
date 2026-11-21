@@ -169,3 +169,7 @@ dissolved curve → super-fine dense grain → enlarged 4K/8K canvas → removal
 all dark/dirty areas → soft-focus blur → finally, deep heavy gradients with no
 curves at all. Each iteration is preserved as a numbered version in the
 workspace; this repository contains the refined, generalized engine.
+
+
+---
+*Repository history rewritten to a single commit attributed to DERYK-RYLOY.*
